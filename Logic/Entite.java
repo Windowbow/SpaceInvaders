@@ -1,3 +1,4 @@
+package Logic
 
 abstract class Entite {
 	private int largeur, longueur, x, y;
